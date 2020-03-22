@@ -19,7 +19,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">
-        <h1 className="text-title">Shree Swami Samartha</h1>
+        {/* <h1 className="text-title">Shree Swami Samartha</h1> */}
         <Navbar />
         <Sidebar />
         <Sidecart />
